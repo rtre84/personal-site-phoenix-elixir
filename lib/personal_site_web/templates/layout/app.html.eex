@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Hi there! | PersonalSite!</title>
+    <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
+    <link rel="stylesheet" href="<%= static_path(@conn, "/css/fancySelect.css") %>">
+    <link rel="stylesheet" href="<%= static_path(@conn, "/css/jquery-ui.css") %>">
+    <link rel="stylesheet" href="<%= static_path(@conn, "/css/style.css") %>">
+
+
+	<!-- Custom Google Web Font -->
+	<link href='http://fonts.googleapis.com/css?family=Cousine:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:400,300italic,300,400italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700,800,700italic' rel='stylesheet' type='text/css'>
+
+	<!-- CSS -->
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+	<link href="js/owl-carousel/owl.carousel.css" rel="stylesheet">
+	<link href="js/owl-carousel/owl.theme.css" rel="stylesheet">
+	<link href="css/fancySelect.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+  <div class="body">
+
+  	<!-- HEADER WRAP -->
+  	<header>
+
+  		<!-- TOP BAR -->
+  		<div class="top-wrap">
+  			<div class="container">
+  				<div class="row">
+  				<div class="col-md-6 tw-left">
+  					<ul>
+  						<li><a href="#">My Account</a></li>
+  						<li><a href="#">My Wishlist (0)</a></li>
+  						<li><a href="#">Checkout</a></li>
+  						<li class="logreg"><a href="#">Login</a><span class="no767">or</span></li>
+  						<li class="logreg no767"><a href="#">Register</a></li>
+  					</ul>
+  				</div>
+  				<div class="col-md-6 tw-right">
+  					<ul>
+  						<li>
+  							<select class="select-currency">
+  								<option>US Dollar</option>
+  								<option>Euro</option>
+  								<option>Pound St.</option>
+  							</select>
+
+  						</li>
+  						<li id="select-lang">
+  							<select class="select-lang">
+  								<option>English</option>
+  								<option>Italian</option>
+  								<option>Spanish</option>
+  								<option>French</option>
+  								<option>German</option>
+  							</select>
+  						</li>
+  						<li class="cart-li">
+  							<div class="shop-basket">My bag: <span>2</span> Item(s)</div>
+  							<div class="cart-bag">
+  								<h5>Recently added items(s)</h5>
+  								<div class="cart-product">
+  									<div class="close"></div>
+  									<img src="images/home/cart/1.jpg" class="img-responsive" alt=""/>
+  									<div class="product-title"><a href="#">Mustard yellow ruffle dress</a></div>
+  									<div class="product-price">$478</div>
+  								</div>
+  								<div class="cart-product">
+  									<div class="close"></div>
+  									<img src="images/home/cart/2.jpg" class="img-responsive" alt=""/>
+  									<div class="product-title"><a href="#">Navy Blue Silk Pleated Shift Dress</a></div>
+  									<div class="product-price"><span>$250</span>$180</div>
+  								</div>
+  								<div class="cart-total">
+  									<div class="cb-ship">Shipping: <span>$7</span> </div>
+  									<div class="cb-total">Total: <span>$736</span> </div>
+  								</div>
+  								<div class="cart-btns">
+  									<div class="cb-btn-left"><a href="#">Cart</a></div>
+  									<div class="cb-btn-right"><a href="#">Checkout</a></div>
+  								</div>
+  							</div>
+  						</li>
+  					</ul>
+  				</div>
+  				</div>
+  			</div>
+  		</div>
+  		<!-- TOP BAR -->
+
+  		<!-- HEADER -->
+  		<div class="header">
+  			<div class="container">
+
+  				<!-- LOGO -->
+  				<div class="logo">
+  					<h1><a href="#"><img src="images/logo.png" class="img-responsive" alt=""/>Fengo</a></h1>
+  				</div>
+
+  				<!-- MENU -->
+  				<div class="nav_wrap">
+  					<form class="search">
+  						<input type="search" placeholder="Find it here..."/>
+  					</form>
+  					<nav class="no320">
+  						<ul>
+  							<li class="dropdown_menu">
+  								<a href="./index.html">Home</a>
+  								<div class="d_menu">
+  									<span>
+  										<a href="./index2.html">Home - Alternative 2</a>
+  										<a href="./index3.html">Home - Alternative 3</a>
+  										<a href="./index4.html">Home - Alternative 4</a>
+  										<a href="./index5.html">Home - Alternative 5</a>
+  									</span>
+  								</div>
+  							</li>
+  							<li class="dropdown_mmenu">
+  								<a href="#">Features</a>
+  								<div class="megamenu">
+  									<div class="megamenu1">
+  										<span>
+  											<em>Homepages</em>
+  											<a href="./index.html">Homepage 1</a>
+  											<a href="./index2.html">Homepage 2</a>
+  											<a href="./index3.html">Homepage 3</a>
+  											<a href="./index4.html">Homepage 4</a>
+  											<a href="./index5.html">Homepage 5</a>
+  										</span>
+
+  										<span>
+  											<em>Portfolio</em>
+  											<a href="./portfolio_4col.html">Portfolio - 4col</a>
+  											<a href="./portfolio_3col.html">Portfolio - 3col</a>
+  											<a href="./portfolio_2col.html">Portfolio - 2col</a>
+  											<a href="./portfolio-single.html">Portfolio - Single</a>
+  											<a href="./404.html">404 page</a>
+  										</span>
+
+  										<span>
+  											<em>Shop</em>
+  											<a href="./category-page1.html">Shop - List style</a>
+  											<a href="./category-page2.html">Shop - Grid style</a>
+  											<a href="./product-page.html">Shop - Single</a>
+  											<a href="./shopping_cart.html">Shop - Cartpage</a>
+  											<a href="./shop_checkout.html">Shop - Checkout</a>
+  										</span>
+
+  										<span>
+  											<em>Extras</em>
+  											<a href="./product_comparison.html">Compare</a>
+  											<a href="./about-us.html">About us</a>
+  											<a href="./blog.html">Blog overview</a>
+  											<a href="./blog-single.html">Blog Single</a>
+  											<a href="./contact.html">Contact</a>
+  										</span>
+
+  										<span>
+  											<a href="./index.html">
+  												<img src="images/home/megamenu/1.jpg" class="img-responsive" alt=""/>
+  											</a>
+  										</span>
+  									</div>
+  									<div class="megamenu2">
+  										<span>
+  											<a href="./index2.html">
+  												<img src="images/home/megamenu/2.jpg" class="img-responsive" alt=""/>
+  											</a>
+  										</span>
+
+  										<span>
+  											<a href="./index3.html">
+  												<img src="images/home/megamenu/3.jpg" class="img-responsive" alt=""/>
+  											</a>
+  										</span>
+
+  										<span>
+  											<a href="./index4.html">
+  												<img src="images/home/megamenu/4.jpg" class="img-responsive" alt=""/>
+  											</a>
+  										</span>
+  									</div>
+  								</div>
+  							</li>
+  							<li class="dropdown_menu">
+  								<a href="#">Shop</a>
+  								<div class="d_menu">
+  									<span>
+  										<a href="./category-page1.html">Shop - List style</a>
+  										<a href="./category-page2.html">Shop - Grid style</a>
+  										<a href="./product-page.html">Shop - Single</a>
+  										<a href="./shopping_cart.html">Shop - Cartpage</a>
+  										<a href="./shop_checkout.html">Shop - Checkout</a>
+  									</span>
+  								</div>
+  							</li>
+  							<li class="dropdown_menu">
+  								<a href="#">Portfolio</a>
+  								<div class="d_menu">
+  									<span>
+  										<a href="./portfolio_4col.html">Portfolio - 4col</a>
+  										<a href="./portfolio_3col.html">Portfolio - 3col</a>
+  										<a href="./portfolio_2col.html">Portfolio - 2col</a>
+  										<a href="./portfolio-single.html">Portfolio - Single</a>
+  									</span>
+  								</div>
+  							</li>
+  							<li class="dropdown_menu">
+  								<a href="#">Blog</a>
+  								<div class="d_menu">
+  									<span>
+  										<a href="./blog.html">Blog overview</a>
+  										<a href="./blog-single.html">Blog Single</a>
+  									</span>
+  								</div>
+  							</li>
+  							<li><a href="./contact.html">Contact</a></li>
+  						</ul>
+  					</nav>
+
+  					<!-- MOBILE ONLY CONTENT -->
+  					<div class="only-for-mobile">
+  						<div class="login-reg"><a href="#">Log In</a> or <a href="#">Register</a></div>
+  						<ul class="ofm">
+  							<li class="m_nav"><i class="fa fa-bars"></i> Navigation</li>
+  							<li>
+  								<div class="shop-basket1">$0.00</div>
+  								<div class="cart-bag">
+  								<h5>Recently added items(s)</h5>
+  									<div class="cart-product">
+  										<div class="close"></div>
+  										<img src="images/home/cart/1.jpg" class="img-responsive" alt=""/>
+  										<div class="product-title"><a href="#">Mustard yellow ruffle dress</a></div>
+  										<div class="product-price">$478</div>
+  									</div>
+  									<div class="cart-product">
+  										<div class="close"></div>
+  										<img src="images/home/cart/2.jpg" class="img-responsive" alt=""/>
+  										<div class="product-title"><a href="#">Navy Blue Silk Pleated Shift Dress</a></div>
+  										<div class="product-price"><span>$250</span>$180</div>
+  									</div>
+  									<div class="cart-total">
+  										<div class="cb-ship">Shipping: <span>$7</span> </div>
+  										<div class="cb-total">Total: <span>$736</span> </div>
+  									</div>
+  									<div class="cart-btns">
+  										<div class="cb-btn-left"><a href="#">Cart</a></div>
+  										<div class="cb-btn-right"><a href="#">Checkout</a></div>
+  									</div>
+  								</div>
+  							</li>
+  						</ul>
+
+  						<!-- MOBILE MENU -->
+  						<div class="mobi-menu">
+  							<div id='cssmenu'>
+  								<ul>
+  									<li class='has-sub'>
+  										<a href='#'><span>Home</span></a>
+  										<ul class="sub-nav">
+  											<li><a href="./index2.html"><span>Home - Alternative 2</span></a></li>
+  											<li><a href="./index3.html"><span>Home - Alternative 3</span></a></li>
+  											<li><a href="./index4.html"><span>Home - Alternative 4</span></a></li>
+  											<li><a href="./index5.html"><span>Home - Alternative 5</span></a></li>
+  										</ul>
+  									</li>
+
+  									<li class='has-sub'>
+  										<a href='#'><span>Features</span></a>
+  										<ul>
+  											<li class='has-sub'>
+  												<a href='#'><span>Homepages</span></a>
+  												<ul>
+  													<li><a href="./index.html"><span>Homepage 1</span></a></li>
+  													<li><a href="./index2.html"><span>Homepage 2</span></a></li>
+  													<li><a href="./index3.html"><span>Homepage 3</span></a></li>
+  													<li><a href="./index4.html"><span>Homepage 4</span></a></li>
+  													<li class="last"><a href="./index5.html"><span>Homepage 5</span></a></li>
+  												</ul>
+  											</li>
+  											<li class='has-sub'>
+  												<a href='#'><span>Portfolio</span></a>
+  												<ul>
+  													<li><a href="./portfolio_4col.html"><span>Portfolio - 4col</span></a></li>
+  													<li><a href="./portfolio_3col.html"><span>Portfolio - 3col</span></a></li>
+  													<li><a href="./portfolio_2col.html"><span>Portfolio - 2col</span></a></li>
+  													<li><a href="./portfolio-single.html"><span>Portfolio - Single</span></a></li>
+  													<li class='last'><a href="./404.html"><span>404 page</span></a></li>
+  												</ul>
+  											</li>
+  											<li class='has-sub'>
+  												<a href='#'><span>Shop</span></a>
+  												<ul>
+  													<li><a href="./category-page1.html"><span>Shop - List style</span></a></li>
+  													<li><a href="./category-page2.html"><span>Shop - Grid style</span></a></li>
+  													<li><a href="./product-page.html"><span>Shop - Single</span></a></li>
+  													<li><a href="./shopping_cart.html"><span>Shop - Cartpage</span></a></li>
+  													<li class='last'><a href="./shop_checkout.html"><span>Shop - Checkout</span></a></li>
+  												</ul>
+  											</li>
+  											<li class='has-sub'>
+  												<a href='#'><span>Extras</span></a>
+  												<ul>
+  													<li><a href="./product_comparison.html"><span>Compare</span></a></li>
+  													<li><a href="./about-us.html"><span>About us</span></a></li>
+  													<li><a href="./blog.html"><span>Blog overview</span></a></li>
+  													<li><a href="./blog-single.html"><span>Blog Single</span></a></li>
+  													<li class='last'><a href="./contact.html"><span>Contact</span></a></li>
+  												</ul>
+  											</li>
+  											<li class="img-nav">
+  												<div class="container">
+  													<div class="clearfix"></div>
+  													<div class="space20"></div>
+  													<div class="clearfix"></div>
+  													<div class="row in1">
+  														<div class="col-md-6">
+  															<a href="./index.html"><img src="images/home/megamenu/1.jpg" class="img-responsive" alt=""/></a>
+  														</div>
+  														<div class="col-md-6">
+  														</div>
+  														<div class="clearfix"></div>
+  														<div class="space20"></div>
+  														<div class="clearfix"></div>
+  													</div>
+  													<div class="row in2">
+  														<div class="col-md-6">
+  															<a href="./index2.html"><img src="images/home/megamenu/2.jpg" class="img-responsive" alt=""/></a>
+  														</div>
+  														<div class="col-md-6">
+  															<a href="./index3.html"><img src="images/home/megamenu/3.jpg" class="img-responsive" alt=""/></a>
+  														</div>
+  													</div>
+  													<div class="clearfix"></div>
+  													<div class="space20"></div>
+  													<div class="clearfix"></div>
+  													<div class="row">
+  														<div class="col-md-6">
+  															<a href="./index4.html"><img src="images/home/megamenu/4.jpg" class="img-responsive" alt=""/></a>
+  														</div>
+  														<div class="col-md-6">
+  														</div>
+  													</div>
+  													<div class="clearfix"></div>
+  													<div class="space20"></div>
+  													<div class="clearfix"></div>
+  												</div>
+  											</li>
+  										</ul>
+  									</li>
+  									<li class='has-sub'>
+  										<a href='#'><span>Shop</span></a>
+  										<ul class="sub-nav">
+  											<li><a href="./category-page1.html"><span>Shop - List style</span></a></li>
+  											<li><a href="./category-page2.html"><span>Shop - Grid style</span></a></li>
+  											<li><a href="./product-page.html"><span>Shop - Single</span></a></li>
+  											<li><a href="./shopping_cart.html"><span>Shop - Cartpage</span></a></li>
+  											<li><a href="./shop_checkout.html"><span>Shop - Checkout</span></a></li>
+  										</ul>
+  									</li>
+  									<li class='has-sub'>
+  										<a href='#'><span>Portfolio</span></a>
+  										<ul class="sub-nav">
+  											<li><a href="./portfolio_4col.html"><span>Portfolio - 4col</span></a></li>
+  											<li><a href="./portfolio_3col.html"><span>Portfolio - 3col</span></a></li>
+  											<li><a href="./portfolio_2col.html"><span>Portfolio - 2col</span></a></li>
+  											<li><a href="./portfolio-single.html"><span>Portfolio - Single</span></a></li>
+  										</ul>
+  									</li>
+  									<li class='has-sub'>
+  										<a href='#'><span>Blog</span></a>
+  										<ul class="sub-nav">
+  											<li><a href="./blog.html"><span>Blog overview</span></a></li>
+  											<li><a href="./blog-single.html"><span>Blog Single</span></a></li>
+  										</ul>
+  									</li>
+  									<li><a href='./contact.html'><span>Contact</span></a></li>
+  								</ul>
+  							</div>
+  						</div>
+  					</div>
+  					<!-- MOBILE ONLY CONTENT -->
+
+  				</div>
+  			</div>
+  		</div>
+  	</header>
+  	<!-- HEADER WRAP -->
+
+
+      <p class="alert alert-info" role="alert"><%= get_flash(@conn, :info) %></p>
+      <p class="alert alert-danger" role="alert"><%= get_flash(@conn, :error) %></p>
+
+      <main role="main">
+        <%= render @view_module, @view_template, assigns %>
+      </main>
+
+    </div> <!-- /container or /body -->
+    <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
+
+	<!--[if lt IE 9]>
+      	<script src="<%= static_path(@conn, "/js/libs/html5shiv.js") %>"></script>
+	    <script src="<%= static_path(@conn, "/js/libs/respond.js") %>"></script>
+	<![endif]-->
+  </body>
+</html>
