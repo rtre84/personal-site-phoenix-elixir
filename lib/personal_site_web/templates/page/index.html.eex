@@ -34,3 +34,1060 @@
     </ul>
   </div>
 </div>
+
+
+	<section class="service-wrap">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 service-content1">
+					<p>Fengo is a premium ecommerce theme.<span>Quisque euismod pretium lacinia. Vivamus sollicitudin placerat tortor sit amet sagittis. Mauris ac ante porta, pellentesque lacus.</span></p>
+				</div>
+			</div>
+		</div>
+
+		<!-- SERVICES -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 service-content">
+					<div class="service-text">
+						<i class="fa fa-desktop"></i>
+						<h3>Responsive Design</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus justo nec dolor adipiscing porttitor. Duis eu nibh at est laoreet suscipit. Morbi non orci ut lectus tempus feugiat sit amet id elit.</p>
+					</div>
+					<div class="service-text">
+						<i class="fa fa-bar-chart-o"></i>
+						<h3>Powerful admin panel</h3>
+						<p>Vestibulum porttitor erat id gravida tincidunt. Ut vitae molestie elit. Cras commo do et lorem sit amet commodo. Praesent a ligula a est ultrices condimentum eu eget elementum ipsum orci.</p>
+					</div>
+				</div>
+				<div class="col-md-6 service-content">
+					<div class="service-text">
+						<i class="fa fa-eye"></i>
+						<h3>Retina ready</h3>
+						<p>Class aptent taciti sociosqu ad litora torquent per conubia
+							nostra, per inceptos himenaeos. Aliquam nec diam quis nisl  iaculis suscipit. Nullam in lorem lorem. Donec vulputate, nibh
+							eget faucibus lobortis.
+						</p>
+					</div>
+					<div class="service-text">
+						<i class="fa fa-wrench"></i>
+						<h3>quality support</h3>
+						<p>Vivamus ut vulputate nibh, vel ornare massa. Vivamus nulla  turpis, dapibus at tempor vitae, congue id sapien.
+							Suspendisse potenti. Aenean feugiat condimentum massa nec commodo.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- SERVICES -->
+
+		<!-- ABOUT CONTENT -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 about-wrap">
+					<h3>About Fengo Shop</h3>
+					<img src="images/service/1.jpg" class="img-responsive" alt=""/>
+					<p>Morbi pretium odio in dapibus varius.  Integer sagittis,tellus ac venenatis  venenatis, ipsum ligula auctor lectus, suscipit velit quam quis turpis. Fusce scelerisque aliquet commodo. Sed lobortis laoreet risus vitae tincidunt. Ut consectetu
+						nec purus in egestas. Metus turpis, aliquet et neque vitae, venenatis imperdiet erat.
+						Maecenas volutpat orci urna, nec  hendrerit sem scelerisque ut. Aliquam  vehicula justo eget.
+					</p>
+					<h4>Read More<i class="fa fa-angle-right"></i></h4>
+				</div>
+				<div class="col-md-6 skills-wrap">
+					<h3>Our &nbsp;Skills</h3>
+					<ul>
+						<li>
+							<div>
+								<h4>Wordpress</h4>
+								<span class="skill-anim skill1"><em>85%</em></span>
+							</div>
+						</li>
+						<li>
+							<div>
+								<h4>Photoshop</h4>
+								<span class="skill-anim skill2"><em>73%</em></span>
+							</div>
+						</li>
+						<li>
+							<div>
+								<h4>Html/css</h4>
+								<span class="skill-anim skill3"><em>92%</em></span>
+							</div>
+						</li>
+						<li>
+							<div>
+								<h4>Illustrator</h4>
+								<span class="skill-anim skill4"><em>69%</em></span>
+							</div>
+						</li>
+						<li>
+							<div>
+								<h4>Logo Design</h4>
+								<span class="skill-anim skill5"><em>87%</em></span>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- ABOUT CONTENT -->
+
+		<!-- PRODUCT TABS -->
+		<div class="product-tabs product-tabs1">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div id="tabs">
+							<ul class="tabs-head">
+								<li><a href="#tab-1">New Arrivals</a></li>
+								<li><a href="#tab-2">Featured</a></li>
+								<li><a href="#tab-3">Special</a></li>
+								<li><a href="#tab-4">Bestsellers</a></li>
+							</ul>
+							<div id="tab-1" class="tab-content">
+								<div class="row">
+									<div class="col-md-12">
+										<ul class="p-list">
+											<li>
+												<div class="plist-img">
+													<img src="images/products/1.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Carded Cotton Shawl <br>Cardigan</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$187</div>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="plist-img">
+													<div class="offer-50">-50%</div>
+													<img src="images/products/2.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Shetland Wool Full-Zip<br>Sweater</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price"><span>$180</span>$110</div>
+													</div>
+												</div>
+											</li>
+											<li class="no940">
+												<div class="plist-img">
+													<img src="images/products/3.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Mustard Yellow Ruffle<br>Whirt Shirt</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$478</div>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="plist-img">
+													<div class="offer-new">New</div>
+													<img src="images/products/4.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay tm-overlay1">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Fine Custom-Fit Poplin<br>Regent</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$1150</div>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div id="tab-2" class="tab-content">
+								<div class="row">
+									<div class="col-md-12">
+										<ul class="p-list">
+											<li>
+												<div class="plist-img">
+													<img src="images/products/1.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Carded Cotton Shawl <br>Cardigan</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$187</div>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="plist-img">
+													<img src="images/products/2.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Shetland Wool Full-Zip<br>Sweater</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price"><span>$180</span>$110</div>
+													</div>
+												</div>
+											</li>
+											<li class="no940">
+												<div class="plist-img">
+													<img src="images/products/3.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Mustard Yellow Ruffle<br>Whirt Shirt</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$478</div>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="plist-img">
+													<img src="images/products/4.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay tm-overlay1">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Fine Custom-Fit Poplin<br>Regent</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$1150</div>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div id="tab-3" class="tab-content">
+								<div class="row">
+									<div class="col-md-12">
+										<ul class="p-list">
+											<li>
+												<div class="plist-img">
+													<img src="images/products/5.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Carded Cotton Shawl <br>Cardigan</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$248</div>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="plist-img">
+													<img src="images/products/6.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Shetland Wool Full-Zip<br>Sweater</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$657</div>
+													</div>
+												</div>
+											</li>
+											<li class="no940">
+												<div class="plist-img">
+													<img src="images/products/7.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Mustard Yellow Ruffle<br>Whirt Shirt</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price"><span>$321</span>$214</div>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="plist-img">
+													<img src="images/products/8.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay tm-overlay1">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Fine Custom-Fit Poplin<br>Regent</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$147</div>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div id="tab-4" class="tab-content">
+								<div class="row">
+									<div class="col-md-12">
+										<ul class="p-list">
+											<li>
+												<div class="plist-img">
+													<img src="images/products/1.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Carded Cotton Shawl <br>Cardigan</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$187</div>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="plist-img">
+													<img src="images/products/2.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Shetland Wool Full-Zip<br>Sweater</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price"><span>$180</span>$110</div>
+													</div>
+												</div>
+											</li>
+											<li class="no940">
+												<div class="plist-img">
+													<img src="images/products/3.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Mustard Yellow Ruffle<br>Whirt Shirt</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$478</div>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="plist-img">
+													<img src="images/products/4.jpg" class="img-responsive" alt=""/>
+													<div class="tm-overlay tm-overlay1">
+														<span class="rating">
+														<span class="star">
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="yes"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														<span class="no"><i class="fa fa-star"></i></span>
+														</span>
+														<em>5 Review(s) | <a href="#">Add Review</a></em>
+														</span>
+														<p> Nulla semper lobortis quam, ac porta nulla. Sed a imperdiet eros. Mauris  viverra sagittis est, ut dignissim tortor. Mauris pretium porta leo id iaculis. Nullam laoreet, ipsum et     accumsan imperdiet, lectus nunc  molestie mi, ut placerat diam lectusin dolor.</p>
+														<div class="plist-add">
+															<div class="plist-add-cart-btns">
+																<div class="plist-add-cb-btn-left"><a href="#">ADD TO BAG</a></div>
+																<div class="plist-add-cb-btn-right"><a href="#">MORE INFO</a></div>
+															</div>
+															<div class="cart-add">
+																<div><a href="#">+ Add to Wishlist</a></div>
+																<div><a href="#" class="pull-right">+ Add to Compare</a></div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-9">
+														<div class="product-title"><a href="#">Fine Custom-Fit Poplin<br>Regent</a></div>
+													</div>
+													<div class="col-md-3">
+														<div class="product-price">$1150</div>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- PRODUCT TABS -->
+
+		<!-- TESTIMONIAL -->
+		<div class="container">
+			<div class="testimonial">
+				<div class="row">
+					<div class="col-md-12">
+						<h3>what clients say?</h3>
+						<div id="quote-slider" class="owl-carousel owl-theme">
+							<div class="item">
+								<p>Mauris nisl orci, dignissim ac nisl mattis, imperdiet consectetur elit. Nulla et tempus dolor. Duis viverra semper orci. Etiam ac ultricies ante. Donec lobortis varius justo et. Curabitur egestas aliquet massa non elementum. Quisque at risus nisl. Aliquam erat volutpat. Aliquam iaculis vulputate imperdiet. Suspendisse potenti.</p>
+								<h4>Nicole Bailey</h4>
+							</div>
+							<div class="item">
+								<p>Mauris nisl orci, dignissim ac nisl mattis, imperdiet consectetur elit. Nulla et tempus dolor. Duis viverra semper orci. Etiam ac ultricies ante. Donec lobortis varius justo et. Curabitur egestas aliquet massa non elementum. Quisque at risus nisl. Aliquam erat volutpat. Aliquam iaculis vulputate imperdiet. Suspendisse potenti.</p>
+								<h4>Nicole Bailey</h4>
+							</div>
+							<div class="item">
+								<p>Mauris nisl orci, dignissim ac nisl mattis, imperdiet consectetur elit. Nulla et tempus dolor. Duis viverra semper orci. Etiam ac ultricies ante. Donec lobortis varius justo et. Curabitur egestas aliquet massa non elementum. Quisque at risus nisl. Aliquam erat volutpat. Aliquam iaculis vulputate imperdiet. Suspendisse potenti.</p>
+								<h4>Nicole Bailey</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- TESTIMONIAL -->
+
+		<!-- HOME PROJECTS -->
+		<div class="related-projects">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h5>Recent Projects</h5>
+						<div id="related-projects" class="owl-carousel owl-theme">
+							<div class="item">
+								<div class="space30"></div>
+								<div class="folio-wrap">
+									<div class="folio-img">
+										<img src="images/projects/1.jpg" alt="" class="img-responsive">
+										<div class="overlay">
+											<div class="links">
+												<a href="#"><i class="fa fa-expand"></i></a>
+												<a href="#"><i class="fa fa-link"></i></a>
+											</div>
+										</div>
+									</div>
+									<div class="folio-info">
+										<h4><a href="#">Lorem Ipsum Dolor</a></h4>
+										<p>Design</p>
+										<div class="like">15</div>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="space30"></div>
+								<div class="folio-wrap">
+									<div class="folio-img">
+										<img src="images/projects/2.jpg" alt="" class="img-responsive">
+										<div class="overlay">
+											<div class="links">
+												<a href="#"><i class="fa fa-expand"></i></a>
+												<a href="#"><i class="fa fa-link"></i></a>
+											</div>
+										</div>
+									</div>
+									<div class="folio-info">
+										<h4><a href="#">Lorem Ipsum Dolor</a></h4>
+										<p>Design</p>
+										<div class="like">15</div>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="space30"></div>
+								<div class="folio-wrap">
+									<div class="folio-img">
+										<img src="images/projects/3.jpg" alt="" class="img-responsive">
+										<div class="overlay">
+											<div class="links">
+												<a href="#"><i class="fa fa-expand"></i></a>
+												<a href="#"><i class="fa fa-link"></i></a>
+											</div>
+										</div>
+									</div>
+									<div class="folio-info">
+										<h4><a href="#">Lorem Ipsum Dolor</a></h4>
+										<p>Design</p>
+										<div class="like">15</div>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="space30"></div>
+								<div class="folio-wrap">
+									<div class="folio-img">
+										<img src="images/projects/4.jpg" alt="" class="img-responsive">
+										<div class="overlay">
+											<div class="links">
+												<a href="#"><i class="fa fa-expand"></i></a>
+												<a href="#"><i class="fa fa-link"></i></a>
+											</div>
+										</div>
+									</div>
+									<div class="folio-info">
+										<h4><a href="#">Lorem Ipsum Dolor</a></h4>
+										<p>Design</p>
+										<div class="like">15</div>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="space30"></div>
+								<div class="folio-wrap">
+									<div class="folio-img">
+										<img src="images/projects/5.jpg" alt="" class="img-responsive">
+										<div class="overlay">
+											<div class="links">
+												<a href="#"><i class="fa fa-expand"></i></a>
+												<a href="#"><i class="fa fa-link"></i></a>
+											</div>
+										</div>
+									</div>
+									<div class="folio-info">
+										<h4><a href="#">Lorem Ipsum Dolor</a></h4>
+										<p>Design</p>
+										<div class="like">15</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- HOME PROJECTS -->
+
+	<!-- FOOTER -->
+	<div class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="footer1-widget col-md-4">
+					<h5>Most Favourite</h5>
+					<div id="slider-style3" class="owl-carousel owl-theme" style="margin-top:-30px;">
+						<div class="item pproducts">
+							<ul>
+								<li>
+									<img src="images/products/1.jpg" alt=""/>
+									<div class="pproducts-info">
+										<div class="product-title"><a href="#">Amet lorem posuere pulvinar felis pelente</a></div>
+										<div class="product-price">$478.5</div>
+									</div>
+								</li>
+								<li>
+									<img src="images/products/2.jpg" alt=""/>
+									<div class="pproducts-info">
+										<div class="product-title"><a href="#">Amet lorem posuere pulvinar felis pelente</a></div>
+										<div class="product-price">$478.5</div>
+									</div>
+								</li>
+								<li>
+									<img src="images/products/3.jpg" alt=""/>
+									<div class="pproducts-info">
+										<div class="product-title"><a href="#">Amet lorem posuere pulvinar felis pelente</a></div>
+										<div class="product-price">$478.5</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<div class="item pproducts">
+							<ul>
+								<li>
+									<img src="images/products/1.jpg" alt=""/>
+									<div class="pproducts-info">
+										<div class="product-title"><a href="#">Amet lorem posuere pulvinar felis pelente</a></div>
+										<div class="product-price">$478.5</div>
+									</div>
+								</li>
+								<li>
+									<img src="images/products/2.jpg" alt=""/>
+									<div class="pproducts-info">
+										<div class="product-title"><a href="#">Amet lorem posuere pulvinar felis pelente</a></div>
+										<div class="product-price">$478.5</div>
+									</div>
+								</li>
+								<li>
+									<img src="images/products/3.jpg" alt=""/>
+									<div class="pproducts-info">
+										<div class="product-title"><a href="#">Amet lorem posuere pulvinar felis pelente</a></div>
+										<div class="product-price">$478.5</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<div class="item pproducts">
+							<ul>
+								<li>
+									<img src="images/products/1.jpg" alt=""/>
+									<div class="pproducts-info">
+										<div class="product-title"><a href="#">Amet lorem posuere pulvinar felis pelente</a></div>
+										<div class="product-price">$478.5</div>
+									</div>
+								</li>
+								<li>
+									<img src="images/products/2.jpg" alt=""/>
+									<div class="pproducts-info">
+										<div class="product-title"><a href="#">Amet lorem posuere pulvinar felis pelente</a></div>
+										<div class="product-price">$478.5</div>
+									</div>
+								</li>
+								<li>
+									<img src="images/products/3.jpg" alt=""/>
+									<div class="pproducts-info">
+										<div class="product-title"><a href="#">Amet lorem posuere pulvinar felis pelente</a></div>
+										<div class="product-price">$478.5</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="footer1-widget col-md-5">
+					<h5>twitter <a href="#">Follow</a></h5>
+					<div class="twitterback1"><a class="twitter-timeline"  href="https://twitter.com/psdtuts"  data-widget-id="494567841673129985" data-theme="light" data-chrome="nofooter noborders transparent" data-link-color="#777" data-aria-polite="assertive" data-tweet-limit="3">Tweets by @psdtuts</a></div>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+
+				<div class="footer1-widget col-md-3">
+					<h5>Quick Contact</h5>
+					<div class="row">
+						<div class="col-md-12">
+							<div class="map">
+								<div class="gmap">
+									<div id="map"></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-12">
+							<form class="quick-contact">
+								<input type="text" placeholder="Enter Your Name">
+								<input type="email" placeholder="Enter Your E-mail">
+								<textarea placeholder="Enter Your Message"></textarea>
+								<button type="submit">Send Message <i class="fa fa-angle-right"></i></button>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		<div class="container">
+			<div class="footer-widget footer-links col-md-3">
+				<h5>Information</h5>
+				<ul>
+					<li><a href="#">New products</a></li>
+					<li><a href="#">Top sellers</a></li>
+					<li><a href="#">Specials products</a></li>
+					<li><a href="#">Manufacturers</a></li>
+					<li><a href="#">Suppliers</a></li>
+					<li><a href="#">Our stores</a></li>
+				</ul>
+			</div>
+
+			<div class="footer-widget footer-links col-md-3">
+				<h5>My Account</h5>
+				<ul>
+					<li><a href="#">My account</a></li>
+					<li><a href="#">Personal information</a></li>
+					<li><a href="#">Addresses</a></li>
+					<li><a href="#">Discount</a></li>
+					<li><a href="#">Orders history</a></li>
+					<li><a href="#">Your Vouchers</a></li>
+				</ul>
+			</div>
+
+			<div class="footer-widget footer-links col-md-3">
+				<h5>Customer Service</h5>
+				<ul>
+					<li><a href="#">Help & contact</a></li>
+					<li><a href="#">Shipping & taxes</a></li>
+					<li><a href="#">Return policy</a></li>
+					<li><a href="#">Careers</a></li>
+					<li><a href="#">Affiliates</a></li>
+					<li><a href="#">Legal Notice</a></li>
+				</ul>
+			</div>
+
+			<div class="footer-widget footer-facebook col-md-3">
+				<h5>Facebook <a href="#">Like</a></h5>
+				<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFacebookDevelopers&amp;width&amp;height=290&amp;colorscheme=dark&amp;show_faces=true&amp;header=false&amp;logobar=false&amp;stream=false&amp;border_color=000&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowTransparency="true"></iframe>
+			</div>
+		</div>
+
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="col-md-6">
+					<ul class="payment">
+						<li><img src="images/icon/1.jpg" alt=""/></li>
+						<li><img src="images/icon/2.jpg" alt=""/></li>
+						<li><img src="images/icon/3.jpg" alt=""/></li>
+						<li><img src="images/icon/4.jpg" alt=""/></li>
+						<li><img src="images/icon/5.jpg" alt=""/></li>
+						<li><img src="images/icon/6.jpg" alt=""/></li>
+					</ul>
+					<p>&copy; Copyright 2017 | anupvasudevan.co - All Rights Reserved.</p>
+				</div>
+				<div class="col-md-6">
+					<ul class="footer-social">
+						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="#"><i class="fa fa-rss"></i></a></li>
+						<li><a href="#"><i class="fa fa-delicious"></i></a></li>
+						<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="#"><i class="fa fa-flickr"></i></a></li>
+						<li><a href="#"><i class="fa fa-skype"></i></a></li>
+						<li><a href="#"><i class="fa fa-envelope"></i></a></li>
+						<li class="ftop"><a href="#"><i class="fa fa-angle-up"></i></a></li>
+					</ul>
+				</div>
+				<div class="ftop1"><a href="#"><i class="fa fa-angle-up"></i></a></div>
+			</div>
+		</div>
+	</footer>
+	<!-- FOOTER -->
+
+</div>
+
+
