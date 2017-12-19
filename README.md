@@ -1,7 +1,9 @@
-# PersonalSite
+# My Personal Site 
+
+### Very much a work in progress
 
 To start your Phoenix server:
-
+  * Create a config folder in the root directory with config.exs and dev.exs
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
   * Install Node.js dependencies with `cd assets && npm install`
